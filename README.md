@@ -2,7 +2,7 @@
 # STATUS: ✅RELEASED
 ![Logo](./woof0080.png)
 
-**Download**: [Latest Release](https://github.com/Ear1h/WAD-GRAVITRON/releases/download/v2.0/Gravitron_v2.1.wad)
+**Download**: [Latest Release](https://github.com/Ear1h/WAD-Citadel/releases/download/v1.1/JOPA_Citadel.wad)
 
 The map was inspired by map08 and map11 from Alien Vendetta. You must infiltrate the citadel through an abandoned mine and through a great infernal lake. Build Time: August 06 - August 26
 
